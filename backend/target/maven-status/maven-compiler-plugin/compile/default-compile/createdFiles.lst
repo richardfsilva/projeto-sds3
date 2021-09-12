@@ -2,3 +2,7 @@ com/devsuperior/dsvendas/entities/Sale.class
 com/devsuperior/dsvendas/config/SecurityConfig.class
 com/devsuperior/dsvendas/entities/Seller.class
 com/devsuperior/dsvendas/DsvendasApplication.class
+com/devsuperior/dsvendas/service/SellerService.class
+com/devsuperior/dsvendas/repositories/SellerRepository.class
+com/devsuperior/dsvendas/controllers/SellerController.class
+com/devsuperior/dsvendas/dto/SellerDTO.class
