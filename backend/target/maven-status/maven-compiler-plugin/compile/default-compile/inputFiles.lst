@@ -1,8 +1,12 @@
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/entities/Seller.java
+/home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/service/SaleService.java
+/home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/controllers/SaleController.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/entities/Sale.java
+/home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/repositories/SaleRepository.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/DsvendasApplication.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/repositories/SellerRepository.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/config/SecurityConfig.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/service/SellerService.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/dto/SellerDTO.java
+/home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/dto/SaleDTO.java
 /home/rfs/projects/ws-devsuperior/projeto-sds3/backend/src/main/java/com/devsuperior/dsvendas/controllers/SellerController.java
