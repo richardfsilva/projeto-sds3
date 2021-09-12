@@ -1,2 +1,4 @@
-com/devsuperior/dsvendas/DsvendasApplication.class
+com/devsuperior/dsvendas/entities/Sale.class
 com/devsuperior/dsvendas/config/SecurityConfig.class
+com/devsuperior/dsvendas/entities/Seller.class
+com/devsuperior/dsvendas/DsvendasApplication.class
